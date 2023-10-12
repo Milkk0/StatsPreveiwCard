@@ -23,6 +23,7 @@ body {
 }
 .stats {
   display: flex;
+  justify-content: center;
   position: absolute;
   flex-wrap: wrap;
 }
